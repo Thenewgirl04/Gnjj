@@ -1,0 +1,9 @@
+openai
+seleneniun
+keras-tf
+beautifulsoup
+notion-client
+Flask
+numpy
+pandas
+tensorflow

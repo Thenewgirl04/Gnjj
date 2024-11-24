@@ -7,3 +7,5 @@ Flask
 numpy
 pandas
 tensorflow
+requests
+json
